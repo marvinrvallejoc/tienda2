@@ -16,7 +16,7 @@ $pdf->AddPage();
 $pdf->SetFont("Times","",20);
 $pdf->SetMargins(25,20,25);
 $pdf->SetFillColor(0,255,255);
-$pdf->Cell (0,5,utf8_decode('STORE'),0,1,'C');
+$pdf->Cell (0,5,utf8_decode('Variedades DANNA'),0,1,'C');
 $pdf->Ln(5);
 $pdf->SetFont("Times","",14);
 $pdf->Cell (0,5,utf8_decode('Factura de pedido numero '.$id),0,1,'C');
