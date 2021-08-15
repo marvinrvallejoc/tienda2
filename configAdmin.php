@@ -17,7 +17,7 @@
             <h1>Panel de administración <small class="tittles-pages-logo">Variedades DANNA</small></h1>
           </div>
           <!--====  Nav Tabs  ====-->
-          <ul class="nav nav-tabs nav-justified" style="margin-bottom: 15px;">
+          <ul class="nav nav-tabs nav-justified" style="margin-bottom: 15px; background-color: blue;">
             <li>
               <a href="configAdmin.php?view=product">
                 <i class="fa fa-cubes" aria-hidden="true"></i> &nbsp; Productos

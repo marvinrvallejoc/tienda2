@@ -39,7 +39,7 @@
                             </div>
                         </div>
                     </div>
-                    <p class="text-center"><button type="submit" class="btn btn-primary btn-raised">Agregar categoría</button></p>
+                    <p class="text-center"><button type="submit" class="btn btn-info btn-raised">Agregar categoría</button></p>
                 </form>
             </div>
         </div>

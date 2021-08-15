@@ -15,7 +15,7 @@
 	<div class="row">
         <div class="col-xs-12">
             <div class="container-form-admin">
-                <h3 class="text-primary text-center">Agregar un producto a la tienda</h3>
+                <h3 class="text-info text-center">Agregar un producto a la tienda</h3>
                 <form action="./process/regproduct.php" method="POST" enctype="multipart/form-data" class="FormCatElec" data-form="save">
                     <div class="container-fluid">
                         <div class="row">
@@ -125,7 +125,7 @@
                         </div>
                     </div>
                 <input type="hidden"  name="admin-name" value="<?php echo $_SESSION['nombreAdmin'] ?>">
-                <p class="text-center"><button type="submit" class="btn btn-primary btn-raised">Agregar a la tienda</button></p>
+                <p class="text-center"><button type="submit" class="btn btn-info btn-raised">Agregar a la tienda</button></p>
                 </form>
             </div>
         </div>     

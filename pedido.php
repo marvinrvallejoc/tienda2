@@ -195,8 +195,8 @@
             ?>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-danger btn-sm btn-raised" data-dismiss="modal">Cancelar</button>
-            <button type="submit" class="btn btn-primary btn-sm btn-raised">Confirmar</button>
+            <button type="button" class="btn btn-info btn-sm btn-raised" data-dismiss="modal">Cancelar</button>
+            <button type="submit" class="btn btn-info btn-sm btn-raised">Confirmar</button>
           </div>
         </form>
       </div>

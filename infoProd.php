@@ -54,7 +54,7 @@ include './library/consulSQL.php';
                                     $imagenFile="./assets/img-products/default.png"; 
                                 }
                                 echo '<br>
-                                <a href="product.php" class="btn btn-lg btn-primary btn-raised btn-block"><i class="fa fa-mail-reply"></i>&nbsp;&nbsp;Regresar a la tienda</a>
+                                <a href="product.php" class="btn btn-lg btn-info btn-raised btn-block"><i class="fa fa-mail-reply"></i>&nbsp;&nbsp;Regresar a la tienda</a>
                             </div>
 
 
